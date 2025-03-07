@@ -1,2 +1,2 @@
-# DB
-DB code
+# DBMS
+SQL code
